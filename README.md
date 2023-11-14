@@ -1,2 +1,2 @@
-# aws-ecs-docker
-deploy docker container to a ecs cluster.
+# e-commerce-api
+E-Commerce API using NodeJS and ExpressJS using MongoDB
